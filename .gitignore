@@ -16,6 +16,8 @@ __pycache__/
 *.log
 *.tmp
 *.bak
+img/
+
 
 # Ignorar archivos de configuración de VSCode y Thonny
 .vscode/
