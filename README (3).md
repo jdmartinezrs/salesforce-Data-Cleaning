@@ -1,3 +1,4 @@
+
 # Salesforce - Limpieza de Datos
 
 Eres un que trabaja para la empresa ,donde tu equipo quiere mejorar la administración de datos de las bandas, eventos y ventas de entradas del festival utilizando Salesforce.
@@ -149,7 +150,7 @@ df["Fecha del Evento"] = pd.to_datetime(df["Fecha del Evento"], errors='coerce')
 
 
 •Cantidad de entradas vendidas por evento
-
+![Logo](https://i.pinimg.com/1200x/18/26/15/1826158e3fc92028f00fa632d2e92da4.jpg)
 ![Logo](https://i.pinimg.com/1200x/80/88/e4/8088e49113a4817e7f4f0fed930feef9.jpg)
 
 •Total de ingresos generados en todos los eventos.
